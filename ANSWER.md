@@ -69,4 +69,4 @@ Le serverless computing est un paradigme de cloud computing dans lequel le fourn
 - Le temps de lancement des applications Serverless est très rapide.
 
 # 15. Comment s'appelle la plus petite unité de computer déployable en Serverless ?
-
+la plus petite unité de computer déployable en Serverlessest une fonction.
